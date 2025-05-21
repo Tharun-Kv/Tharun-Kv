@@ -1,5 +1,5 @@
 # About Me 🚀:
-About Me 🚀<br>👋 Hi, I'm Tharun K V<br>🧠 AIML Enthusiast | Machine Learning & AI Developer<br>📊 Passionate about data, algorithms,smart solutions Frontend Developer & Tech Enthusiast<br>🚀 Building models to solve real-world problems with Python & ML libraries<br>📚 Always learning new AI techniques and exploring deep learning<br>🔍 Skilled in data preprocessing, model training, and evaluation<br>🛠️ Working on projects involving computer vision, NLP, and predictive analytics<br>🎯 On a mission to create intelligent systems that make life easier<br>📫 Contact me: tharunkv742004@gmail.com<br><br>
+<br>👋 Hi, I'm Tharun K V<br>🧠 AIML Enthusiast | Machine Learning & AI Developer<br>📊 Passionate about data, algorithms,smart solutions Frontend Developer & Tech Enthusiast<br>🚀 Building models to solve real-world problems with Python & ML libraries<br>📚 Always learning new AI techniques and exploring deep learning<br>🔍 Skilled in data preprocessing, model training, and evaluation<br>🛠️ Working on projects involving computer vision, NLP, and predictive analytics<br>🎯 On a mission to create intelligent systems that make life easier<br>📫 Contact me: tharunkv742004@gmail.com<br><br>
 
 
 ## 🌐 Socials:
